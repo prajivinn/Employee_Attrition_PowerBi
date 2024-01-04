@@ -1,4 +1,4 @@
-# Project Overview:
+## Project Overview:
 
 Determine the factors that contribute to employee attrition within the company and provide insights to reduce attrition rates.
 
@@ -26,6 +26,10 @@ Analyse the effectiveness of training programs and recommend improvements to enh
 
 ![HR_Analytics_Attrition_Yes](https://github.com/prajivinn/Employee_Attrition_PowerBi/assets/108303914/24dc6159-e9e8-46c6-ad44-24f45bdf55ab)
 
+
+![HR_Analytics_Attrition_No](https://github.com/prajivinn/Employee_Attrition_PowerBi/assets/108303914/04451d97-5926-4909-b363-8a1de006c5d1)
+
+<br>
 
 ## Observations
 
