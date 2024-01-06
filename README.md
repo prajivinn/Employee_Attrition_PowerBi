@@ -39,10 +39,13 @@ Problem Statement 2: "Optimize Employee Training Programs"
 
 ## Observations
 
-•	There are total of 159 employees and attrition rate is about **34%**.
-•	On an average, people spend around **5 years** in the company.
-•	Average salary offered is around **68k** and Overall satisfaction score is **4**.
-•	Average working and training hours are **41** and **20**.
+*	There are total of 159 employees and attrition rate is about **34%**.
+  
+*	On an average, people spend around **5 years** in the company.
+  
+*	Average salary offered is around **68k** and Overall satisfaction score is **4**.
+  
+*	Average working and training hours are **41** and **20**.
 
 **Age Distribution**:
 
