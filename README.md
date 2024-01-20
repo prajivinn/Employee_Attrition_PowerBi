@@ -36,13 +36,13 @@ Problem Statement 2: "Optimize Employee Training Programs"
 
 <br>
 
-<img width="1920" alt="yes-blank" src="https://github.com/prajivinn/HR_Analytics_PowerBI/assets/108303914/647cc525-ad32-49bd-8f8f-0fb0127c031d">
+<img width="1554" alt="yes-blank" src="https://github.com/prajivinn/HR_Analytics_PowerBI/assets/108303914/15898225-8e5c-49b7-bffe-f459678f6219">
 
 <br>
 
 *Attrition* - **No**
 
-<img width="1920" alt="no-blank" src="https://github.com/prajivinn/HR_Analytics_PowerBI/assets/108303914/55a6e30f-aaea-4873-9435-377fca9ab9dd">
+<img width="1553" alt="no-blank" src="https://github.com/prajivinn/HR_Analytics_PowerBI/assets/108303914/e8f020ce-3c9f-43cc-b6d1-50c19bfee81f">
 
 <br>
 
