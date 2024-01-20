@@ -30,10 +30,19 @@ Problem Statement 2: "Optimize Employee Training Programs"
 
 ## Dashboard
 
-![HR_Analytics_Attrition_Yes](https://github.com/prajivinn/Employee_Attrition_PowerBi/assets/108303914/24dc6159-e9e8-46c6-ad44-24f45bdf55ab)
+<br>
 
+*Attrition* - **Yes**
 
-![HR_Analytics_Attrition_No](https://github.com/prajivinn/Employee_Attrition_PowerBi/assets/108303914/04451d97-5926-4909-b363-8a1de006c5d1)
+<br>
+
+<img width="1920" alt="yes-blank" src="https://github.com/prajivinn/HR_Analytics_PowerBI/assets/108303914/647cc525-ad32-49bd-8f8f-0fb0127c031d">
+
+<br>
+
+*Attrition* - **No**
+
+<img width="1920" alt="no-blank" src="https://github.com/prajivinn/HR_Analytics_PowerBI/assets/108303914/55a6e30f-aaea-4873-9435-377fca9ab9dd">
 
 <br>
 
